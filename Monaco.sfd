@@ -4,7 +4,7 @@ FullName: Monaco
 FamilyName: Monaco
 Weight: Regular
 Copyright: (c) 1990-2008 Apple Inc. (c) 1990-97 Type Solutions Inc. (c) 1990-97 The Font Bureau Inc.  TrueType outline design of Monaco typeface created by Kris Holmes and Charles Bigelow.
-Version: 001.001
+Version: 
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 155
@@ -15,13 +15,13 @@ LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
 XUID: [1021 664 1202113233 15959462]
-FSType: 4
+FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: -490924800
-ModificationTime: 1412598452
-PfmFamily: 17
+CreationTime: 1412602224
+ModificationTime: 1412603044
+PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 171
@@ -114,7 +114,7 @@ EndChar
 
 StartChar: NULL
 Encoding: 8 8 1
-AltUni2: 00001d.ffffffff.0 000000.ffffffff.0
+AltUni2: 000000.ffffffff.0 00001d.ffffffff.0
 Width: 0
 Flags: W
 LayerCount: 2
@@ -122,7 +122,7 @@ EndChar
 
 StartChar: CR
 Encoding: 9 9 2
-AltUni2: 00000d.ffffffff.0 00000a.ffffffff.0
+AltUni2: 00000a.ffffffff.0 00000d.ffffffff.0
 Width: 1229
 Flags: W
 LayerCount: 2
